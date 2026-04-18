@@ -1,7 +1,6 @@
 # This program converts a normal message into a secret code language.
 # For words with length less than 3, the word is reversed.
-# For longer words, the first letter is moved to the end and
-# random characters are added at the beginning and end.
+# For longer words, the first letter is moved to the end and random characters are added at the beginning and end.
 
 
 str = input("Enter a message:")
