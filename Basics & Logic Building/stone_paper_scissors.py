@@ -1,6 +1,5 @@
 # This program implements a simple Stone-Paper-Scissors game.
-# The user plays against the computer, and the winner is decided
-# using conditional logic based on the game rules.
+# The user plays against the computer, and the winner is decided using conditional logic based on the game rules.
 
 
 import random
