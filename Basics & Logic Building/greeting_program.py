@@ -1,6 +1,5 @@
 # This program takes time input (hours, minutes, seconds) from the user,
-# converts it into total seconds, and displays an appropriate greeting
-# (Good Morning, Afternoon, or Evening) based on the time
+# converts it into total seconds, and displays an appropriate greeting (Good Morning, Afternoon, or Evening) based on the time.
 
 
 hh = int(input("Enter the hour in 24- hour format:"))
