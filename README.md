@@ -15,21 +15,54 @@ It includes a variety of projects focused on:
 
 
 # Current Progress
-Part 1: Basics & Logic Building (Completed)
+Part 1: Basics & Logic Building 
 
 - **Time-based Greeting Program**
 
- - **Stone, Paper, Scissors Game**
+- **Stone, Paper, Scissors Game**
 
 - **Secret Code Language**
 
  
-Part 2: Intermediate & OOP (Coming Soon)
+Part 2: Intermediate & OOP 
 
-Part 3: Automation & Real-World Projects (Coming Soon)
+- **Library Management System (Class-based)**
+  
+- **KBC Quiz Game**
+  
+- **Text-to-Speech Shoutouts**
+
+Part 3: Automation & Real-World Projects 
+
+- **PDF Merger Tool**
+  
+- **File Renaming Script (Clear the Clutter)**
+  
+- **Drink Water Reminder**
+  
+- **News Platform (in progress)**
 
 
 # Technologies Used
 Python
 
-Built-in modules: **random**
+Built-in modules: **os, random, time**
+
+External libraries: 
+- **PyPDF2**
+  
+- **pyttsx3**
+  
+- **tkinter**
+  
+- **plyer**
+
+# Purpose
+
+The goal of this repository is to:
+
+- **Tracking my Python learning journey**
+
+- **Improving problem-solving skills**
+  
+- **Building small but useful real-world applications**
