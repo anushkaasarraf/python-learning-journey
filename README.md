@@ -1,7 +1,7 @@
 # python-learning-journey
 A collection of Python projects showcasing my journey from learning the basics to building real-world applications, including games and practical mini tools.
 
-# About This Repository
+## About This Repository
 
 This repository documents my progress in Python, starting from fundamental concepts and moving towards building useful and interactive programs.
 
@@ -14,7 +14,7 @@ It includes a variety of projects focused on:
    - Automation and real-world applications
 
 
-# Current Progress
+## Current Progress
 Part 1: Basics & Logic Building 
 
 - **Time-based Greeting Program**
@@ -39,30 +39,29 @@ Part 3: Automation & Real-World Projects
 - **File Renaming Script (Clear the Clutter)**
   
 - **Drink Water Reminder**
-  
-- **News Platform (in progress)**
 
 
-# Technologies Used
+
+## Technologies Used
 Python
 
-Built-in modules: **os, random, time**
+Built-in modules: os, random, time
 
 External libraries: 
-- **PyPDF2**
+- PyPDF2
   
-- **pyttsx3**
+- pyttsx3
   
-- **tkinter**
+- tkinter
   
-- **plyer**
+- plyer
 
-# Purpose
+## Purpose
 
 The goal of this repository is to:
 
-- **Tracking my Python learning journey**
+- Tracking my Python learning journey
 
-- **Improving problem-solving skills**
+- Improving problem-solving skills
   
-- **Building small but useful real-world applications**
+- Building small but useful real-world applications
